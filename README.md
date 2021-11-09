@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="forgSiteLink"><img src="https://cdn.discordapp.com/attachments/834520706410217522/907741172313772052/Untitled-1.png" alt="Forg - Discord Bot"></a>
+  <a href="https://exp0420.github.io/forgPage/"><img src="https://cdn.discordapp.com/attachments/834520706410217522/907741172313772052/Untitled-1.png" alt="Forg - Discord Bot"></a>
   <br>
   happyForgDiscord
   <br>
