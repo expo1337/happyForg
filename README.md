@@ -35,12 +35,11 @@ to host and maintain your own instance.
 - Message clearing
 - Customisable command permissions
 
-**Additionally, other [plugins](#plugins) (cogs) can be easily found and added from our growing
-community of cog repositories.**
+**Additionally, other [plugins](#plugins) (cogs) can be easily found and added.**
 
 # Installation
 
-**The following platforms are officially supported:** 
+
 1) Make sure that python is installed.
 2) Install python requirements with: **pip install -r requirements.txt**
 3) Replace the token inside the **main.py** file.
