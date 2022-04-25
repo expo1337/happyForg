@@ -10,9 +10,6 @@ class fun(commands.Cog):
     self.client = client
 
   @commands.command()
-  async def negus(self, ctx):
-    await ctx.send("skureny tomas")
-  @commands.command()
   async def ping(self, ctx):
     await ctx.send("pong!")
   @commands.command()
